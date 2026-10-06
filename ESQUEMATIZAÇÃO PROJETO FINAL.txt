@@ -1,0 +1,12 @@
+ESQUEMATIZAÇÃO PROJETO FINAL
+"Neste projeto final você desenvolverá um pequeno programa capaz de calcular soma, subtração, divisão, multiplicação e área de triângulos.
+A ideia geral desse programa é oferecer ao usuário um menu simples, onde seja possível escolher a operação a ser feita. É preciso oferecer a oportunidade de informar ao programa quais números devem ser usados nos cálculos."
+
+*Separar cada operação em uma função diferente
+
+**utilizar uma estrutura de switch para rodar determinada função (ex : operacao 1 = soma -> entrada:1 -> rodar função de soma
+
+***area do triangulo = base*altura/2;
+
+
+OBS: pra você que veio analisar a organização deste projeto, saiba que foi feito 100% sem ajuda de nenhum tipo de inteligência artificial e caso você queira me consultar para tirar alguma dúvida, pode fazer sem medo!
